@@ -25,9 +25,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="35" alt="mysql logo"  />
 </div>
 
-![Snake animation](https://github.com/J0V1RO/J0V1RO/blob/output/github-contribution-grid-snake.svg)
-###
-
 <br clear="both">
 
 ###
