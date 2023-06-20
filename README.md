@@ -31,4 +31,14 @@
   <img src="https://profile-counter.glitch.me/J0V1R0/count.svg?"  />
 </div>
 
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/J0V1R0/J0V1R0/output/snake.svg" alt="Snake animation"/>
+
+###
+
 ###
